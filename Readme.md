@@ -6,4 +6,4 @@
 
 Тут будет про установку, настройку и эксплуатацию Gitlab CE в рамках курса
 
-[](1%20-%20Gitlab%20Installation/readme.md)
+[](1 - Gitlab Installation/Readme.md)
